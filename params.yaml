@@ -1,0 +1,7 @@
+preprocess:
+  test_split: 0.2
+  random_state: 42
+
+train:
+  # TODO: Add hyperparameters for the Random Forest model
+  # Hint: the training script expects n_estimators, max_depth, and random_state
